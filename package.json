@@ -1,0 +1,17 @@
+{
+  "name": "universal-airbnb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christian Nwamba <nwambachristian@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^4.2.1",
+    "normalize.css": "^7.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^2.4.0"
+  }
+}
